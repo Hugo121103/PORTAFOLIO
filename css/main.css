@@ -944,8 +944,8 @@ input[type=text], .project_description, input[type=url] {
   background-color: #fefefe;
   margin: 1% auto 1% auto;
   border: 1px solid #888;
-  width: 30%;
-  padding-bottom: 20px;
+  width: 70%;
+  padding-bottom: 5%;
 }
 
 /* The Close Button (x) */
